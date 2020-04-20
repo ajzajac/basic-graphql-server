@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Vince McMahon",
+      "email": "wwe@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Randy Savage",
+      "email": "rsavage@gmail.com",
+      "age": 60
+    },
+    {
+      "id": "5",
+      "name": "Hulk Hogan",
+      "email": "hollywood@gmail.com",
+      "age": 61
+    },
+    {
+      "name": "Jerry Seinfield",
+      "email": "jseinfield@gmail.com",
+      "age": 56,
+      "id": "8domgzA"
+    },
+    {
+      "name": "Jerry Seinfield",
+      "email": "jseinfield@gmail.com",
+      "age": 56,
+      "id": "g-z3Mym"
+    }
+  ]
+}
